@@ -1,24 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
-
+import Avater from "./components/Avater";
+import './App.css'
+import Intro from "./components/Intro";
+import Skill_list from "./components/Skill_list";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <>
+    <h1 style={{marginLeft:'130px',marginTop:'20px',color:'#d90429',fontSize:'50px'}}>Skill Card</h1>
+    <div className="card">
+        <span></span>
+        <Avater/>
+        <Intro/>
+        <Skill_list/>
     </div>
+    </>
   );
 }
 
