@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Personal-Skill-Card/static/css/main.3aa8f050.css",
+    "main.js": "/Personal-Skill-Card/static/js/main.0a9afc48.js",
+    "static/js/453.7c0fbead.chunk.js": "/Personal-Skill-Card/static/js/453.7c0fbead.chunk.js",
+    "index.html": "/Personal-Skill-Card/index.html",
+    "main.3aa8f050.css.map": "/Personal-Skill-Card/static/css/main.3aa8f050.css.map",
+    "main.0a9afc48.js.map": "/Personal-Skill-Card/static/js/main.0a9afc48.js.map",
+    "453.7c0fbead.chunk.js.map": "/Personal-Skill-Card/static/js/453.7c0fbead.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aa8f050.css",
+    "static/js/main.0a9afc48.js"
+  ]
+}
